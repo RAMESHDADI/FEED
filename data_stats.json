@@ -1,0 +1,10 @@
+{
+ "source": "github:OS-CUM.xlsx",
+ "feedback_removed_as_llm_failure_message": 68,
+ "rows_raw": 98656,
+ "rows_after_cleaning": 97684,
+ "rows_after_dedup": 65302,
+ "unique_prompts": 173,
+ "unique_responses": 44002,
+ "rows_used": 65302
+}
