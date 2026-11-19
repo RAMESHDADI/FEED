@@ -1,0 +1,8 @@
+{
+ "mode": "question",
+ "n_train": 52375,
+ "n_val": 6410,
+ "n_test": 6517,
+ "test_questions_seen_in_train": 0.0,
+ "test_pairs_identical_to_train": 0.0
+}
